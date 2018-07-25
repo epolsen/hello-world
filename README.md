@@ -1,4 +1,4 @@
 # hello-world
-Trying to learnn GitHub through a tutorial.
+Trying to learn GitHub through a tutorial.
 
 I'm learning about branches and commit changes in GitHub.
